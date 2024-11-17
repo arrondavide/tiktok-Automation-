@@ -1,0 +1,43 @@
+# Virtual environment directory
+.venv/
+venv/
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Distribution directories
+dist/
+build/
+*.egg-info/
+
+# Spec file from PyInstaller (optional, if not needed)
+*.spec
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variables and secrets (create a template instead)
+.env
+*.env
+
+# IDE and editor config files (specific to popular IDEs)
+.vscode/
+.idea/
+
+# Byte-compiled files and caches
+*.pyo
+*.pyd
+*.pdb
+
+# Backup files
+*.bak
+*.swp
+
+# Cache directories
+.cache/
